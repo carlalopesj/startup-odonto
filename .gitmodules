@@ -1,0 +1,6 @@
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/carlalopesj/BackEnd-Startup.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/carlalopesj/FrontEnd-Odonto.git
