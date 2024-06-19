@@ -4,3 +4,6 @@
 [submodule "FrontEnd"]
 	path = FrontEnd
 	url = https://github.com/carlalopesj/FrontEnd-Odonto.git
+[submodule "FrontEnd-Startup"]
+	path = FrontEnd-Startup
+	url = https://github.com/carlalopesj/FrontEnd-Startup.git
