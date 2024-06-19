@@ -1,6 +1,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/carlalopesj/BackEnd-Startup.git
-[submodule "FrontEnd-Startup"]
-	path = FrontEnd-Startup
+[submodule "FrontEnd"]
+	path = FrontEnd
 	url = https://github.com/carlalopesj/FrontEnd-Startup.git
