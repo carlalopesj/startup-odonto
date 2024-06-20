@@ -19,9 +19,9 @@ Para rodar o aplicativo em sua máquina, execute os seguintes passos:
 
 ### Integrando o FrontEnd com o Backend
 Para integrar os dois, é necessário alterar o IP de acordo com a sua rede nas seguintes pastas:
-src/app/index/index.tsx
-src/app/cadastro/index.tsx
-src/app/dentes/index.tsx
+1x - src/app/index/index.tsx
+1x - src/app/cadastro/index.tsx
+2x - src/app/dentes/index.tsx
 A parte que deve ser alterada está comentada ao lado, para verificar o seu ip, digite "ipconfig" no terminal e veja os números correspondentes ao IPv4.
 Altere apenas a parte do ip, mantendo a porta 3535.
 Obs: para que o FrontEnd funcione com o BackEnd é necessário que os dois estejam rodando ao mesmo tempo com os comandos de "npm run dev" no backend e "npx expo start" no frontend
