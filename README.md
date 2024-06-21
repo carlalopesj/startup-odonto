@@ -31,3 +31,6 @@ A parte que deve ser alterada está comentada ao lado, você deve alterar 4 veze
 Altere apenas a parte do ip, mantendo a porta 3535.
 
 Obs: para que o FrontEnd funcione com o BackEnd é necessário que os dois estejam rodando ao mesmo tempo com os comandos de "npm run dev" no backend e "npx expo start" no frontend
+
+### Atualizações
+Caso queria receber a versão mais nova, você pode optar por fazer o download do zip novamente e seguir os mesmos passos, ou se tiver clonado o projeto em sua máquina, basta dar um git pull, que você terá todas as mudanças!
