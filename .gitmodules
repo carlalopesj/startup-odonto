@@ -1,5 +1,5 @@
-[submodule "BackEnd-Startup"]
-	path = BackEnd-Startup
+[submodule "BackEnd"]
+	path = BackEnd
 	url = https://github.com/carlalopesj/BackEnd-Startup.git
 [submodule "FrontEnd-Startup"]
 	path = FrontEnd-Startup
